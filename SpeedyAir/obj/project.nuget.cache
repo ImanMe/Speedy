@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kncLiGE7ddUer9R3tWAJYTl4ffYrxqBGgOEge1Q5IbIZE2piM7toFtB0dRStlsUMVcdFaqNhQSHgqTdzif30Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\SpeedyAir\\SpeedyAir\\SpeedyAir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bizli\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bizli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Bizli\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
